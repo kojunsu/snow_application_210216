@@ -19,6 +19,8 @@ pip install dlib           #얼굴 인식
 pip install numpy          #행렬 연산
 ```
 
+[공부한 내용 블로그 ](https://rkaclfrns.tistory.com/65)
+
 [무료 동영상 다운 사이트](https://www.pexels.com/search/videos/face)
 
 
