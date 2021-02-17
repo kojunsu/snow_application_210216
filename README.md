@@ -1,23 +1,23 @@
-# snow_application_210216
+## 간단한 스노우 카메라 앱 만들기
+본 프로젝트는 스노우 카메라 앱과 같이 동영상의 사람 얼굴을 인식하여   그 위에 이미지를 씌울 수 있습니다. 
 
-프로젝트에 대한 간략한 Description
-실행 방법(컴파일 방법, 환경 포함)
- 브라우저 서포트
- 
- 읽는 사람을 생각해서 작성한다면 기본적으로 다음을 고려해야 하는데요
+1. 개발 환경
+- OS :Mac OS
+- 개발 IDE : Pycharm
+- Python : Ver 3.9.1
 
-이게 무엇인지(what)
-동작할 때 어떻게 보이는지(what it looks like in action)
-어떻게 사용하는 지(how)
-관련된 상세(details)
+```python
+#터미널에서 라이브러리 설치 
 
+pip install opencv-python  #이미지 처리
+pip install dlib           #얼굴 인식
+pip install numpy          #행렬 연산
+```
 
-(1) 프로젝트 구성 안내 -  기술 스택 등
-(2) 프로젝트 설치하는 방법
-(3) 프로젝트 사용법
-(4) 프로젝트 기능 설명
-(5) 저작권 및 사용권 정보
-(6) 버그
-(7) 프로그램 작성자 및 도움을 준 사람
-(8) 버전 (업데이트 소식)
-(9) FAQ
+[](https://www.pexels.com/search/videos/face)
+
+[](https://www.pexels.com/search/videos/face)
+
+[kairess/face_detector](https://github.com/kairess/face_detector)
+
+[https://www.youtube.com/watch?v=tpWVyJqehG4&t=148s](https://www.youtube.com/watch?v=tpWVyJqehG4&t=148s)
