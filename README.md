@@ -6,7 +6,6 @@
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/62390565/108248309-07cfee80-7197-11eb-99b1-e2c9a68f0ec6.gif)
 
 
-#### [공부한 내용](https://rkaclfrns.tistory.com/65)
 
 ### 1. 개발 환경
 
@@ -23,8 +22,10 @@ pip install dlib           #얼굴 인식
 pip install numpy          #행렬 연산
 ```
 
+### 3. 블로그
+- [공부한 내용](https://rkaclfrns.tistory.com/65)
 
-### 3. 출처 
+### 4. 출처 
 - [무료 동영상 다운 사이트](https://www.pexels.com/search/videos/face)
 
 
